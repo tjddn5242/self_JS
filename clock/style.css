@@ -1,0 +1,12 @@
+.js-clock {
+    color: tomato;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
