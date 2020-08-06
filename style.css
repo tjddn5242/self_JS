@@ -11,12 +11,13 @@ body {
 }
 
 .js-clock {
-    color: tomato;
+    color: #2d3436;
 }
 
 .form,
 .greetings {
     display: none;
+    font-size: x-large;
 }
 
 .showing {
